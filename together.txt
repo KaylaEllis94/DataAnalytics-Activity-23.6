@@ -1,1 +1,1 @@
-
+My capstone project investigates the relationship between delayed hospital discharges and A&E waiting times in the NHS. (Michaela Ellis)
